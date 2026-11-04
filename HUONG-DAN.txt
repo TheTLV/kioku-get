@@ -1,0 +1,14 @@
+Kioku
+
+Giải nén cả thư mục. Đừng chỉ kéo mỗi file Kioku ra ngoài.
+
+Linux: mở terminal trong thư mục này và chạy
+  ./kioku.sh
+
+Windows: bấm đúp Kioku.exe
+
+Trình duyệt mở http://127.0.0.1:5184
+Lần đầu ghi tên trên bìa đang khép.
+
+Muốn máy trả lời thì vào Cài đặt và dán khóa Grok của chính mình.
+Khóa và nhật ký nằm trên máy này. Gói không mang theo sổ của ai.

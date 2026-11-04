@@ -1,0 +1,4 @@
+*.zip
+*.pdb
+kioku.db
+.kioku-key
